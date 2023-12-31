@@ -25,3 +25,5 @@
    - 使用ImageTk库将PIL图像转换为Tkinter图像，以在Tkinter应用程序中显示图标。
 
 使用该工具箱，用户可以方便地进行面部分析、颜值打分和人脸对比，提供了友好的GUI界面，使操作简单直观。
+
+注意：运行 颜值打分.py  需要shape_predictor_68_face_landmarks.dat，可以从https://blog.csdn.net/monster663/article/details/118341515下载。
